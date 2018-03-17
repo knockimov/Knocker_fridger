@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Knocker_Fridger-WemosD1-v100_PCB1_57640
+*Date=10:51:30
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;30.8674;-4.28815;0;Bottom;TXT1
+2;;;31.2033;-36.7437;0;Bottom;Jumper2
+3;;;13.1689;-17.5129;0;Bottom;WeMos D1 Mini1
+4;;THT;30.9493;-2.19971;90;Bottom;DHT22
+5;150;THT;33.4893;-12.1057;90;Bottom;150?
+6;150;THT;28.4093;-12.1057;90;Bottom;150?
+7;;3 mm [THT];28.4094;-25.2029;0;Bottom;Green
+8;;;8.32896;-14.6627;0;Bottom;Via1
+9;;;28.9173;-36.7437;0;Bottom;Jumper3
+10;;;33.4893;-36.7437;0;Bottom;Jumper1
+11;;3 mm [THT];33.4894;-25.2029;0;Bottom;Yellow
