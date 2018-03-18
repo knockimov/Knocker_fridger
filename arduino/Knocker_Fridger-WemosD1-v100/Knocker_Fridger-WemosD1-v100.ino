@@ -12,12 +12,12 @@
 #define HTTPSERVER "things.ubidots.com"
 #define SERVER "translate.ubidots.com"
 #define PORT 9012
-#define SETID "5a8c65c9c03f974ee0929eb6"            // Ubidots variable ID, Setpoint
-#define TEMID "5a9f1328c03f971480b0b435"            // Ubidots variable ID, Temperature
-#define HUMID "5a6b507ac03f9704f9e5cd63"            // Ubidots variable ID, Humidituý
-#define TOKEN "A1E-TXA4A6lGIVYy53ZFKwlWMk95wY69BY"  // Ubidots TOKEN
-#define WIFISSID "KnockTun"                         // Your WiFi SSID
-#define PASSWORD "charles1dickens"                  // Your WiFi password
+#define SETID ""            // Ubidots variable ID, Setpoint
+#define TEMID ""            // Ubidots variable ID, Temperature
+#define HUMID ""            // Ubidots variable ID, Humidituý
+#define TOKEN ""            // Ubidots TOKEN
+#define WIFISSID ""         // Your WiFi SSID
+#define PASSWORD ""         // Your WiFi password
 
 unsigned long previousMillisCompressor = 0;         // will store last time the compressor ran
 unsigned long prevMillisUbidots  = 0;               // will store last time Ubidots was updated
